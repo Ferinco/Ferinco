@@ -13,12 +13,3 @@
 <a title="LinkedIn" href="https://www.linkedin.com/in/ifeanyi-lucky-193b44194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ferinco" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferinco&show_icons=true&locale=en&layout=compact&langs_count=10&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt="Ferinco" /></p>
-
-<br />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ferinco&show_icons=true&locale=en&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt="Ferinco" /></p>
-
-<br />
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ferinco&theme=dark" alt="Ferinco" /></p>
